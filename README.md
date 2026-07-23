@@ -125,6 +125,3 @@ project/
 - Grad-CAM (Selvaraju et al., 2017)
 - Temperature Scaling (Guo et al., 2017)
 
-## License
-
-*[Add your chosen license here, e.g. MIT]*
